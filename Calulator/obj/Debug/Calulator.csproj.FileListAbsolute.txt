@@ -1,0 +1,6 @@
+C:\arbeit\Covea\Covea\Calulator\Calulator\bin\Debug\Calulator.dll
+C:\arbeit\Covea\Covea\Calulator\Calulator\bin\Debug\Calulator.pdb
+C:\arbeit\Covea\Covea\Calulator\Calulator\obj\Debug\Calulator.csprojAssemblyReference.cache
+C:\arbeit\Covea\Covea\Calulator\Calulator\obj\Debug\Calulator.csproj.CoreCompileInputs.cache
+C:\arbeit\Covea\Covea\Calulator\Calulator\obj\Debug\Calulator.dll
+C:\arbeit\Covea\Covea\Calulator\Calulator\obj\Debug\Calulator.pdb
